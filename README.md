@@ -2,6 +2,8 @@
 
 A web-based emergency application for locating Automated External Defibrillators (AEDs) across Jersey, Channel Islands. The app uses geolocation and interactive mapping to help users quickly find the nearest defibrillator in medical emergencies.
 
+**Created and designed by [Coderra.je](https://coderra.je)**
+
 ## Features
 
 - **Interactive Map**: View all 47+ defibrillator locations across Jersey
@@ -90,12 +92,14 @@ This app is designed to assist in emergencies but should not replace calling eme
 
 ## License
 
-This project is open source and available for public use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**You are free to use, modify, and distribute this application as long as you acknowledge the original creator: [Coderra.je](https://coderra.je)**
 
 ## Credits
 
-Developed for the Jersey community to improve emergency response times and save lives.
+Created and designed by **[Coderra.je](https://coderra.je)** for the Jersey community to improve emergency response times and save lives.
 
 ## Contact
 
-For questions or to report incorrect defibrillator locations, please open an issue on GitHub.
+For questions or to report incorrect defibrillator locations, please open an issue on GitHub or visit [Coderra.je](https://coderra.je).
